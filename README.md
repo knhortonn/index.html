@@ -3,9 +3,9 @@
   <head>
     <title>My Personal Introduction</title>
     <style></style>
-      body{background-color: DCAAA6}
-      h1{color: 857989}
-      p{color: 383338} 
+      body{background-color: #DCAAA6}
+      h1{color: #857989}
+      p{color: #383338} 
   </head>
   <body>
     <h1>My name is Keira Horton</h1>
